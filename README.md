@@ -25,14 +25,14 @@ Findings demonstrated an inverse relationship between motor function and dopamin
 
 ## Computational Programs Developed
 
-### 1️⃣ Behavioral Tracking & Movement Analysis Program
+### 1️ Behavioral Tracking & Movement Analysis Program
 - Extracted video frames for anatomical annotation
 - Implemented automated positional tracking
 - Generated thermal movement heatmaps
 - Quantified longitudinal motor regression
 - Modeled behavioral decline progression
 
-### 2️⃣ Dopamine Gene Expression Monitoring Program
+### 2️ Dopamine Gene Expression Monitoring Program
 - Integrated implanted gene markers
 - Tracked dopamine expression over time
 - Generated time-series visualizations
